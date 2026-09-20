@@ -1,3 +1,6 @@
+# Scraper checkpoints
+data/raw/*_checkpoint.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
