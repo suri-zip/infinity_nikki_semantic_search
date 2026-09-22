@@ -15,8 +15,7 @@ from bs4 import BeautifulSoup
 API_URL = "https://wiki.biligame.com/wxnn/api.php"
 BASE_URL = "https://wiki.biligame.com"
 
-# Wiki 原网页本身就是每页 36 个
-IMAGE_LIMIT = 36
+IMAGE_LIMIT = 12
 
 MIN_WAIT = 4
 MAX_WAIT = 7
